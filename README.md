@@ -17,3 +17,5 @@ This will be used to create some other infrastructure for other personal project
 # To Do
 - improve the terraform code, and
 - follow terraform best practices
+- use better the output files
+- use better the variable file
